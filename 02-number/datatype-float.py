@@ -1,10 +1,13 @@
 '''
 author: juzicode
 address: www.juzicode.com
-wechat: juzicode
+公众号: juzicode/桔子code
 date: 2020.5.27
 '''
-print('\n-----欢迎来到www.juzicode.com!-----')
+print('\n')
+print('-----欢迎来到www.juzicode.com')
+print('-----公众号: juzicode/桔子code\n')
+
 print('float数据类型例程：')
 a=6.1
 b=3
