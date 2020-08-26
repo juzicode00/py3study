@@ -85,6 +85,10 @@ print('getctime():',os.path.getctime(__file__))
 print('getsize():',os.path.getsize(__file__))
 
 
+print('创建多层目录')
+ret = os.makedirs('a1\\b\\c\\d\\e')
+print('makedirs():',ret)
+
 
 
 print('重命名文件')
